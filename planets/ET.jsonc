@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"name": "Ember Twin",
+	"removeChildren": [
+		"AmbientLight_CaveTwin",
+		"Atmosphere_CaveTwin"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"name": "Sun",
+	"removeChildren": [
+		"AmbientLight_SUN",
+		"Atmosphere_SUN",
+		"StarLightController",
+		"Sector_SUN/Geometry_SUN",
+		"Sector_SUN/Volumes_SUN",
+		"Sector_SUN/Effects_SUN",
+		"Sector_SUN/Audio_SUN"
+	],
+	"Star": {
+		"tint": {
+			"r": 255,
+			"g": 255,
+			"b": 255
+		},
+		"size": 123,
+		"solarLuminosity": 0.1
+	}
+}

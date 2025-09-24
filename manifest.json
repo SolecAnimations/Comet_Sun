@@ -1,0 +1,11 @@
+{
+  "uniqueName": "Solec.BrambleNebula",
+  "name": "Cometary Nebula",
+  "author": "Solec",
+  "version": "1.0.0",
+  "filename": "NewHorizonsConfig.dll",
+  "owmlVersion": "2.15.1",
+  "dependencies": [
+    "xen.NewHorizons"
+  ]
+}

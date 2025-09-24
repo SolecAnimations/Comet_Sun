@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Sun",
+		"CometTail": {
+		"primaryBody": "Dark Bramble",
+		"innerRadius": 10000,
+		"dustTint": {
+			"r": 155,
+			"g": 250,
+			"b": 255,
+			"a": 30
+		},
+		"gasTint": {
+			"r": 24,
+			"g": 96,
+			"b": 99,
+			"a": 20
+		}
+	}
+}
